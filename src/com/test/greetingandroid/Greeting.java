@@ -11,5 +11,6 @@ public class Greeting extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        //nothing
     }
 }
